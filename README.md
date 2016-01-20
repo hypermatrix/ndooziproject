@@ -1,0 +1,2 @@
+# ndooziproject
+Ndoozi django.com
